@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\user\\.nuget\\packages\\": {}
+    "C:\\Users\\a.shapovalov\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\Учеба\\Знакомство с языками программирования\\Лекция1\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
+      "projectUniqueName": "C:\\Users\\a.shapovalov\\Desktop\\учеба\\Лекция1\\HelloCode\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
       "projectName": "Example001_HelloConsole",
-      "projectPath": "C:\\Users\\user\\Desktop\\Учеба\\Знакомство с языками программирования\\Лекция1\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
-      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\Учеба\\Знакомство с языками программирования\\Лекция1\\Examples\\Example001_HelloConsole\\obj\\",
+      "projectPath": "C:\\Users\\a.shapovalov\\Desktop\\учеба\\Лекция1\\HelloCode\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
+      "packagesPath": "C:\\Users\\a.shapovalov\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\a.shapovalov\\Desktop\\учеба\\Лекция1\\HelloCode\\Example001_HelloConsole\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\a.shapovalov\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
